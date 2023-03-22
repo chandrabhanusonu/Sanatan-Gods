@@ -8,7 +8,7 @@ const Card = (props) => {
                 <img 
                 className="rounded-full aspect-square w-[140px] h-[140px] z-[25]"
                 src={review.image}/>
-                <div className="w-[140px] h-[140px] bg-violet-500 rounded-full absolute top-[-6px] z-[-20] left-[10px]"></div>
+                <div className="w-[140px] h-[140px] bg-orange-400 rounded-full absolute top-[-6px] z-[-20] left-[10px] object-fit"></div>
             </div>
 
             <div className="text-center mt-7">

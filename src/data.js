@@ -1,38 +1,24 @@
 const reviews = [
   {
     id: 1,
-    name: "Pranay Gupta",
-    job: "Software Engineer",
-    image: "https://aeccc.targettechnology.in/static/media/PranayGupta.f3c530b7630ba8efb2ab.jpg",
-    text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
+    name: "Lord Shiva",
+    job: "ॐ ह्रीं ह्रौं नमः शिवाय।।",
+    image: "https://nepalyogahome.com/wp-content/uploads/2021/04/lord-shiva-the-founder-of-yoga.jpg",
+    text: `He is the Supreme Being in Shaivism, one of the major traditions within Hinduism. Shiva is known as "The Destroyer" within the Trimurti, the Hindu trinity which also includes Brahma and Vishnu. In the Shaivite tradition, Shiva is the Supreme Lord who creates, protects and transforms the universe.`,
   },
   {
     id: 2,
-    name: "Abir Pal",
-    job: "Graphic Designer",
-    image: "https://aeccc.targettechnology.in/static/media/AbirPal.574a09ad7cb325853b29.jpg",
-    text: "I have been working with this company for several years now, and I have always been impressed with their creativity and attention to detail. They are true professionals who take pride in their work and always go above and beyond to deliver exceptional results.",
+    name: "Load Brahma",
+    job: "ॐ ब्रह्मणे नमः ।।",
+    image: "https://1.bp.blogspot.com/-b9vJYBwVL7s/Ux8C_bRhHeI/AAAAAAAAOm4/PuYgbgwa-74/s1600/brahma_god_of_creation_by_molee-d4tkg58.jpg",
+    text: `Brahma (Sanskrit: ब्रह्मा, romanized: Brahmā) is a Hindu god, referred to as "the Creator" within the Trimurti, the trinity of supreme divinity that includes Vishnu and Shiva. He is associated with creation, knowledge, and the Vedas.`
   },
   {
     id: 3,
-    name: "Soumya Banerjee",
-    job: "Marketing Manager",
-    image: "https://aeccc.targettechnology.in/static/media/SoumyaBanerjee.2e2521d6029842435080.jpg",
-    text: "I am thrilled with the results of our recent marketing campaign, and it wouldn't have been possible without the hard work and dedication of the entire team. Thank you for your exceptional work!",
-  },
-  {
-    id: 4,
-    name: "Saikat Mukherjee",
-    job: "Content Strategist",
-    image: "https://aeccc.targettechnology.in/static/media/SaikatMukherjee.033310703edff52d0532.jpg",
-    text: "I have worked with many content creators over the years, but none have impressed me as much as this team. They have a knack for crafting compelling and engaging content that resonates with our audience and drives real results. I highly recommend them!",
-  },
-  {
-    id: 5,
-    name: "Aritra Biswas",
-    job: "Data Analyst",
-    image: "https://avatars.githubusercontent.com/u/93366359?v=4",
-    text: "I had the opportunity to work with this team on a data analysis project, and I was impressed with their attention to detail and their ability to work with complex datasets. They provided valuable insights that helped us make informed business decisions. It was a pleasure working with them.",
+    name: "Lord Vishnu",
+    job: "ॐ हूं विष्णवे नम:",
+    image: "https://www.templepurohit.com/wp-content/uploads/2015/07/Lord-Vishnu-Hindu-Gods-and-Deities.jpg",
+    text: `विष्णु (/vɪʃnuː/ VISH-noo; संस्कृत: विष्णु, रोमानीकृत: Viṣṇu, शाब्दिक रूप से 'व्यापक', उच्चारण [ʋɪʂɳʊ]), जिसे नारायण और हरि के नाम से भी जाना जाता है, हिंदू धर्म के प्रमुख देवताओं में से एक है। वे वैष्णववाद के भीतर सर्वोच्च हैं, जो समकालीन हिंदू धर्म के भीतर प्रमुख परंपराओं में से एक है।`,
   },
 ];
 
